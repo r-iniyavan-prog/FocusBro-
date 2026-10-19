@@ -10,4 +10,4 @@ FocusBro- is a lightweight, distraction-free productivity web application design
 
 ## Getting Started
  Live Site Link
-https://r-iniyavan-prog.github.io/FocuBro-
+https://r-iniyavan-prog.github.io/FocusBro-
