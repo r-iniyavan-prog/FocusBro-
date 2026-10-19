@@ -9,9 +9,5 @@ FocusBro- is a lightweight, distraction-free productivity web application design
 - **Lightweight & Fast:** Built with pure web technologies for instant loading and zero bloat.
 
 ## Getting Started
-
-To run or test this project locally, simply clone the repository and open the entry file in your browser:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/r-iniyavan-prog/FocusBro-.git](https://github.com/r-iniyavan-prog/FocusBro-.git)
+ Live Site Link
+https://github.com/r-iniyavan-prog/FocusBro-.git
